@@ -1,0 +1,49 @@
+.header{
+    width:100%;
+    background-color:#000000;
+    height:80px;
+    overflow: hidden;
+    color:#ffffff;
+  }
+  
+  .header .container{
+    max-width:1220px;
+    overflow: hidden;
+    margin:auto;
+  }
+  
+  .header .container .featureTxtBox{
+    padding-top:30px;
+    margin-left:15px;
+  }
+  
+  .header .container .userSignIn{
+    padding-top:30px;
+    display: flex;
+    align-items:center;
+  }  
+  .header .container .userSignIn .txtUser{
+    padding-left:10px;
+    padding-top:4px
+  }
+  
+  .userSignIn{
+    float: right;
+  }
+  
+  .featureTxtBox{
+    float: left;
+  }
+  
+  /****General CSS*******/
+  .flt-Left{
+    float:left
+  }
+  .flt-right{
+    float:right
+  }
+  
+  .logoutButton {
+    margin-left: 15px;
+  }
+  

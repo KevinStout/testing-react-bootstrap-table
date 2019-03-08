@@ -1,0 +1,14 @@
+.table-space-around{
+    margin: 5% 5%;
+}
+
+.btn-green{
+    background-color: green;
+    color: #ffffff;
+    width: 75%;
+    height: 50px;
+}
+
+.btn-blue{
+    background-color: blue;
+}
